@@ -1,0 +1,2 @@
+- name: Install development tools
+  uses: taiki-e/install-action@v2.47.25
